@@ -196,7 +196,6 @@ Julio Cesar Martins de Oliveira
 Kassia Oliveira dos Santos
 Kauan Barbosa da Silva
 Ketlyn Regina Aguiar Fernandes
-Lemuel Rodrigues Lemos
 Leonardo de Oliveira Pires
 Leticia Ramalho da Silva
 Livya Gomes Pereira
@@ -312,5 +311,6 @@ Daiane Oliveira de Souza
 Deyvid Miller Mendes
 Miguel Cardoso dos Santos
 Rodrigo Ramos Rocha
+
 
 
