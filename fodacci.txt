@@ -85,7 +85,6 @@ Raissa Lopes Rodrigues
 Raquel Cristina Medeiros da Silva
 Victória Kusnier de Lara
 Alicia Vitoria Lins
-Analice Gomes Pereira
 Bianca Aparecida F. Messias
 Bianca Ramos dos Santos
 Eduarda Marchioto Shitara
@@ -315,3 +314,4 @@ Daiane Oliveira de Souza
 Deyvid Miller Mendes
 Miguel Cardoso dos Santos
 Rodrigo Ramos Rocha
+
