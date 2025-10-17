@@ -16,7 +16,6 @@ Marcela Cristina de Sousa Cravinho
 Maria Eduarda Ribeiro de Souza
 Taciane Cunha de Andrade
 Amy Lee de Oliveira Ribeiro
-Annyelize Caroline Rodrigues de Sousa
 Felipe Hideki Minamihara
 Gabriela de Azevedo
 Grazielly Cristini Ferreira de Oliveira
@@ -46,17 +45,14 @@ Mirella da Silva Coelho
 Nelson Américo Ramos Ribeiro
 Nicole Cristine Mateus de Lima
 Pedro Henrique de Souza Aurelio
-Ana Beatriz de A. Santos Cardona
 Beatriz Jandira Paranhos de Lara
 Derick Henrique de Camargo Rocha
 Jackeline Vitoria da Costa Silva
 Juan Pablo Antonio de França Souza
 Kaandra Goncalves de Jesus Okazaki
-Marcos Rosa da Silva
 Nicole de Laurents
 Ana Beatriz de Sousa Waldhelm
 Ana Beatriz Rodrigues Guedes
-Ana Clara Alves Trigo
 Carlos Eduardo Domingues da Silva
 Marcos Antonio Soares dos Santos
 Maria Clara Antunes Pereira
@@ -125,7 +121,6 @@ Victoria da Silva Cunha
 Vitor Henrique Lucolli Domingues Mariano
 Yasmin Trigo Cunha
 Ana Giulya Martins Cardoso
-Ayla Goncalves Okazaki
 Aysha Goncalves Okazaki
 Caio Augusto Mariano Cunha
 Cauã de Oliveira França
@@ -154,8 +149,6 @@ Gabriela Rodrigues dos Santos
 Geovanna Vitoria Oliveira Silva
 Lohanny Vitoria da Silva Almeida
 Rafael Vieira de Lima
-Aline Cristina Medeiros da Silva
-Angelika Goncalves Okazaki
 Erika de Castro Romero
 Gabriella Fonseca da Silva
 Gabrielly de Abreu Passos
@@ -179,11 +172,8 @@ Yasmin Eva Aguiar da Silva
 Mikaely E. Ap. da Silva Pinheiro
 Vitoria Thóbias Domingues
 Adrian Henrique Rodrigues Cunha
-Alicia Medeiros Gutz
 Amanda Kerolin Ferreira de Souza
-Anna Alice Cunha Olicino de Almeida
 Anna Vitória da Silva Monteiro
-Arthur Veraszta de Oliveira
 Camille Vitoria de Souza Aurelio
 Davi Vinicius Oliveira da Silva
 Debora Nelma Fontes Bahia
@@ -214,15 +204,13 @@ Vitor Hugo Barbosa da Silva
 Luiz Gustavo Dias da silva
 Carlos Augusto Mateus Altieri
 Kevyn de Souza Waldhelm
-Anderson Rodrigues da Silva
 Victor Ximendes Bosshard Garcia
 luiz octavio paz de lima Souza
 Marcos Rosa da Silva
 Amanda Pereira da Costa
 tallya Teixeira de Camargo
 Juliana Barros de Oliveira
-Allison Alexandre Vitó
-Ana Carolina Medeiros D
+Allison Alexandre Vitória
 Arthur Correa Lara De Br
 Caio Augusto Mariano Cu
 Carlos Daniel Lemos Dos
@@ -319,7 +307,6 @@ Ana Clara Alves Trigo
 Ana Carolina Medeiros de Lima
 Ana Giulia Martins Cardoso
 Ana Julia de Albuquerque Gato
-Ana Julia Santana Ferreira
 Angelika Goncalves Okazaki
 Anna Alice Cunha Olicino de Almeida
 Anna Carolina dos Santos Leal
@@ -391,7 +378,6 @@ Lorena Aguiar de Lima
 Luan Matheus Pereira Fonseca
 Luany Rodrigues de Oliveira
 Luara Ramos Lopes
-Lucas Leite de Carvalho
 Luiz Octavio Paz de Lima Souza
 Luiz Otavio Aquino de Lima Waldhelm
 Luiz Otavio Ribeiro de Oliveira
