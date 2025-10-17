@@ -39,7 +39,6 @@ Leandro Nunes da Silva
 Marjorie Bianca de Lima Silva Lorenço
 Suellen Eduarda Garcia Moreno Goncalves
 Breno de Lima Franco
-Giovanna Kimberllyn Mendonca Santos
 Julia Ferreira Messias
 Mirella da Silva Coelho
 Nelson Américo Ramos Ribeiro
@@ -124,7 +123,6 @@ Ana Giulya Martins Cardoso
 Aysha Goncalves Okazaki
 Caio Augusto Mariano Cunha
 Cauã de Oliveira França
-Evellyn Leal Dantas
 Guilherme Ramalho de Oliveira
 Igor Medeiros Gutz
 Kamille de Souza Menezes
@@ -144,12 +142,10 @@ Alice Peniche Correa
 Beatriz Ribeiro Alencar
 Enzo Gabriel da Silva Aguiar
 Eyshila Vitoria Araujo de Pontes Aguiar
-Gabriel Ribeiro Domingues
 Gabriela Rodrigues dos Santos
 Geovanna Vitoria Oliveira Silva
 Lohanny Vitoria da Silva Almeida
 Rafael Vieira de Lima
-Erika de Castro Romero
 Gabriella Fonseca da Silva
 Gabrielly de Abreu Passos
 Heloiza Pauloski Jeronimo
@@ -178,10 +174,6 @@ Camille Vitoria de Souza Aurelio
 Davi Vinicius Oliveira da Silva
 Debora Nelma Fontes Bahia
 Emmily Vitória Silva Santos
-Felipe Siqueira Leal
-Gabriel Jesus de Medeiros Lima
-Gabrielly Victoria Ferreira de Oliveira
-Giovana Livia Carneiro de Andrade
 Julio Cesar Martins de Oliveira
 Kassia Oliveira dos Santos
 Kauan Barbosa da Silva
@@ -215,8 +207,6 @@ Arthur Correa Lara De Br
 Caio Augusto Mariano Cu
 Carlos Daniel Lemos Dos
 DAYSE CRYSTINA DOSSANT
-Eliseu Monteiro Dos San
-Fabricio Rodrigues Bra
 Felipe Hideki Minamiha
 Gabriele Santana Da Sil
 Geane Vitoria Dos Santo
@@ -329,9 +319,6 @@ Davi Vinicius Oliveira da Silva
 David Souza Pires
 Debora Nelma Fontes Bahia
 Emanuelly Monteiro da Silva
-Emmily Vitoria Silva Santos
-Enzo Gabriel da Silva Aguiar
-Erick Felipe Soares de Abreu
 Erick Vinicius de Jesus Mariano
 Erik de Castro Romero
 Evellyn Leal Dantas
@@ -464,7 +451,6 @@ Flaviany de Assis Vieira
 Gabriela Freitas da Silva
 Gabriela Silva Sousa
 Giovanna Kimberllyn Mendonca Santos
-Giovana Castro Marciano
 Guilherme da Silva Souza
 Isabelly Franco de Camargo
 Jackeline Vitoria da Costa Silva
