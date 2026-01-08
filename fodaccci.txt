@@ -182,7 +182,7 @@ Leonardo de Oliveira Pires
 Leticia Ramalho da Silva
 Livya Gomes Pereira
 Luane Kevellin Pereira Araujo
-Lucas Leite de Carvalho
+
 Luiz Felipe de Alcantara Peniche
 Maria Lilian Goncalves Jesus de Oliveira
 Matheus Henrique Mariano
@@ -522,4 +522,5 @@ Tiago Luiz Domingues Martins
 Vitor Henrique de Melo Pereira
 Vitor Henrique Morato da Silva
 Vinícius Silva dos Passos
+
 
