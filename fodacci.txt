@@ -142,7 +142,7 @@ Kauan Barbosa da Silva
 Ketlyn Regina Aguiar Fernandes
 Livya Gomes Pereira
 Luane Kevellin Pereira Araujo
-Lucas Leite de Carvalho
+
 Maria Lilian Goncalves Jesus de Oliveira
 Pedro Henrique Soares Domingues
 Vitor Hugo Barbosa da Silva
@@ -389,4 +389,5 @@ Thiago William Costa Ribeiro
 Tiago Luiz Domingues Martins
 Vitor Henrique de Melo Pereira
 Vitor Henrique Morato da Silva
+
 Vinícius Silva dos Passos
